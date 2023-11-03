@@ -8,7 +8,7 @@ group :development do
   gem 'json'
   gem 'less'
   gem 'kramdown'
-  gem 'RedCloth'
+  gem 'RedCloth', '>= 4.3.3'
   gem 'therubyracer' # required by less
 end
 
